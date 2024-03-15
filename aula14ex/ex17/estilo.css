@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(60, 111, 70);
+    font: Normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.699);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 5px 5px 10px black;
+    margin: auto;
+    text-align: center;
+}
+#num {
+    text-align: center;
+    width: 50px;
+    border-radius: 6px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.538);
+}
+#txtnum {
+    font-style: italic;
+}
+
+#gerar {
+    background-color: white;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.713);
+    text-align: center;
+    border-radius: 9px;
+    margin-bottom: 5px;
+}
+
+#seltab {
+    background-color: rgba(255, 255, 255, 0.627);
+    margin: auto;
+    width: 160px;
+    height: 180px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.744) ;
+    font-style: oblique;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
